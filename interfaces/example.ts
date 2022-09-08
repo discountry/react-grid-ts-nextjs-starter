@@ -1,5 +1,5 @@
-type Example = {
+type ExampleProps = {
   title: string;
 };
 
-export default Example;
+export default ExampleProps;

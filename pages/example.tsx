@@ -11,7 +11,7 @@ const layout: Layout[] = [
 
 const Example: NextPage = () => (
   <>
-    <ExampleTitle />
+    <ExampleTitle title="Example" />
     <GridLayout
       className="layout"
       layout={layout}
