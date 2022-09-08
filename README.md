@@ -2,6 +2,12 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+Use as template:
+
+```
+npx create-next-app@latest --ts --use-npm -e https://github.com/discountry/react-grid-ts-nextjs-starter
+```
+
 First, run the development server:
 
 ```bash
